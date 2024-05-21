@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'FMSNEW'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_603443708D2346F6928CDB973FCC4116 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2A700B7407934E3BA56B131D76C2A503 }}
